@@ -5,16 +5,7 @@
 ### Current Projects:
 - **[DPM Website](http://www.dpm.navajo-nsn.gov/)** As an employee of the Navajo Nation Human Resources, I rebuilt their website. One big feature I added was changing hundreds of job postings from static HTML into dynamic data.
  
-- **[VR-Personal-Portfolio](https://github.com/Brody-code-designer/vr-personal-portfolio)** My Personal Portfolio is in a 3d environment with the ability to enable Virtual Reality. To accomplish this I'm using these NodeJs libraries Three.js, react-three/fiber, react-xr, and drei. www.mycodingskillz.com
-
-- **[XP-Exercise:](https://github.com/Brody-code-designer/XP-Exercise)** A game that encourages exercise by following along with 3D avatars. Tools used include React, React-Three/Fiber, and React Bootstrap. www.expninja.com
-
-### Past Projects:
-- **[AlienGram:](https://github.com/now-in-orbit/alien-gram)** A social media website created with a group while at coding bootcamp. Tools include React, Express, Redux, Bootstrap, Docker, TypeScript, and much more. https://bit.ly/alien-gram  
-
-- **Secret Code:** A personal blog for coding tips, tricks, and secrets. The primary tool used to develop this site is WordPress and a Blocksy theme.
-
-- **Saiyan Web Dev:** A personal website I developed at a coding CNM Web Development Bootcamp. Tools used include HTML, CSS, Vanilla JavaScript, Bootstrap, and jQuery. 
+- **[Personal-Portfolio](https://github.com/code-cody-418/personal-portfolio)** My Personal Portfolio is within a 3d environment. To accomplish this I'm using these NodeJs libraries Three.js, react-three/fiber, and drei. www.codecody.dev
 
 
 ### Work Experience: 
@@ -25,6 +16,17 @@
 - **Bootcamp Assistant Instructor:** As a bootcamp instructor I helped students build web applications using a modified MERN stack. 
 
 - **Freelance Programmer on Upwork:** Worked with clients to build websites and web applications often times utlizing WebGL. 
+
+
+### Past Projects:
+- **[XP-Exercise:](https://github.com/Brody-code-designer/XP-Exercise)** A game that encourages exercise by following along with 3D avatars. Tools used include React, React-Three/Fiber, and React Bootstrap.
+
+- **[AlienGram:](https://github.com/now-in-orbit/alien-gram)** A social media website created with a group while at coding bootcamp. Tools include React, Express, Redux, Bootstrap, Docker, TypeScript, and much more. https://bit.ly/alien-gram  
+
+- **Secret Code:** A personal blog for coding tips, tricks, and secrets. The primary tool used to develop this site is WordPress and a Blocksy theme.
+
+- **Saiyan Web Dev:** A personal website I developed at a coding CNM Web Development Bootcamp. Tools used include HTML, CSS, Vanilla JavaScript, Bootstrap, and jQuery. 
+
 
 
 ### Cool Things About Me
