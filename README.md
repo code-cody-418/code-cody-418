@@ -1,8 +1,7 @@
-### Hello!!! 
-
-## Here you will find many of my professional and personal projects. Most of my personal projects were built with a modified MERN Stack. I try to enhance my skills daily by writing code for awesome applications.  
+## Here you will find many of my professional and personal projects. My professional projects include builing websites and developing applications. Most of my personal projects were built with a modified MERN Stack. I try to enhance my skills daily by writing code for awesome applications.  
 
 ### Current Projects:
+- **[Gesture Gift Giving App](https://sendagesture.app.link/)** With Gesture I conducted multiple data integrations and worked on there application. My daily tasks mostely entailed working with endpoints for our REST API. 
 - **[DPM Website](http://www.dpm.navajo-nsn.gov/)** As an employee of the Navajo Nation Human Resources, I rebuilt their website. One big feature I added was changing hundreds of job postings from static HTML into dynamic data.
  
 - **[Personal-Portfolio](https://github.com/code-cody-418/personal-portfolio)** My Personal Portfolio is within a 3d environment. To accomplish this I'm using these NodeJs libraries Three.js, react-three/fiber, and drei. www.codecody.dev
