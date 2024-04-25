@@ -8,6 +8,7 @@
 
 
 ### Work Experience: 
+- **Software Engineer Gesture:** As a software engineer I wrote code for our E-commerce application.
 - **Program Analyst Navajo Nation Human Resources:** As a programmer analyst I rebuilt the departments website, maintained VSphere Infartructure, and conducted a data transfer of millions of documents with metadata. 
 
 - **Gesture Back-end Intern:** At Gesture I built ETL pipelines for data integration between databases and the CRM.  
@@ -25,13 +26,3 @@
 - **Secret Code:** A personal blog for coding tips, tricks, and secrets. The primary tool used to develop this site is WordPress and a Blocksy theme.
 
 - **Saiyan Web Dev:** A personal website I developed at a coding CNM Web Development Bootcamp. Tools used include HTML, CSS, Vanilla JavaScript, Bootstrap, and jQuery. 
-
-
-
-### Cool Things About Me
-- 🕶 JavaScript is the name of the game
-- 🌱 My focus is utilizing my development skills
-- 👯 I’m looking to collaborate on fun projects that will improve my skills!
-- 💬 Feel free to ask me about any of my repositories or projects.
-- 😄 Pronouns: He/Him, They/Them
-- 🍗 Fun fact: I love cooking really fun foods like Chicken Wings coated in Hot Cheetos.
