@@ -1,6 +1,6 @@
 ## Here you will find many of my professional and personal projects. My professional projects include builing websites and developing applications. Most of my personal projects were built with a modified MERN Stack. I try to enhance my skills daily by writing code for awesome applications.  
 
-### Current Projects:
+### Projects:
 - **[Gesture Gift Giving App](https://sendagesture.app.link/)** With Gesture I conducted multiple data integrations and worked on there application. My daily tasks mostely entailed working with endpoints for our REST API. 
 - **[DPM Website](http://www.dpm.navajo-nsn.gov/)** As an employee of the Navajo Nation Human Resources, I rebuilt their website. One big feature I added was changing hundreds of job postings from static HTML into dynamic data.
  
